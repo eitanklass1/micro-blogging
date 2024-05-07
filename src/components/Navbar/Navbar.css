@@ -1,0 +1,26 @@
+.nav-bar {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  color: white;
+  background: #343A40;
+  border-radius: 6px;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  margin: 1rem;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: white;
+}
+

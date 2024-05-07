@@ -1,0 +1,30 @@
+.tweet-card {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: 1rem auto;
+  background: #343A40;
+  border-radius: 6px;
+  padding: 1rem;
+}
+
+.tweet-card-top {
+  display: flex;
+}
+
+.tweet-card-pic {
+  display: flex;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 0.5rem;
+}
+
+.tweet-card-info {
+  display: flex;
+  color: #6C757D;
+  margin-bottom: 1rem;
+  width: 100%;
+  justify-content: space-between;
+}
+

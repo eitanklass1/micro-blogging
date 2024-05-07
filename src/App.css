@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  background: #15202B;
+}
+
+.App {
+  color: white;
+  font-family: 'Roboto';
+} 
+
+.auth-error {
+  border: 1px solid red;
+  background-color: #FF7F7F;
+  border-radius: 4px;
+  color: black;
+  padding: 0.1rem;
+  margin: 0.5rem 0;
+}
